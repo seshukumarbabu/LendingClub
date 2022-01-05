@@ -11,7 +11,6 @@ The analysis has to be performed using EDA (Exploratory Data Analysis)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
